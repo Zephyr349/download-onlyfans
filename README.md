@@ -2,11 +2,15 @@
 
 [Movi Downloader](https://downloader.movipx.com) is a powerful and easy-to-use tool designed to help users download videos and images from OnlyFans. With a simple Chrome extension, you can seamlessly save your favorite content.
 
-Click Here Get [Chrome Extension](https://chromewebstore.google.com/detail/movi-downloader/bcidlgaobekmmlfjaikmmacfhfhjbeae)
+[Chrome Extension](https://chromewebstore.google.com/detail/movi-downloader/bcidlgaobekmmlfjaikmmacfhfhjbeae) Click Here Install
+
+### How to download onlyfans video
+
+![download onlyfans](/static/onlyfans_download.png)
 
 ---
 
-## How to Decryption Videos
+## How to Decryption Onlyfans Video
 
 ### Windows
 
